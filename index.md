@@ -3,7 +3,6 @@ type: pages
 comments: false
 share: false
 ---
-# About Me
 
 Hi there. My name is Zhouyingcheng Liao (廖周应成). You can just call me Zhou. I am a Master student in Computer Science at Saarland University and Max Planck Institute for Informatics, supervised by Prof [Gerard Pons-Moll](virtualhumans.mpi-inf.mpg.de). 
 
